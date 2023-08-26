@@ -32,7 +32,7 @@ Reactions:
 - DELETE a reaction from a thought: /api/thoughts/:thoughtId/reactions/:reactionId
 
 Screenshot of Insomnia Core:
-[screenshot of user route in insomnia core](./assets/images/insomniascrnsht.png)
+![screenshot of user route in insomnia core](./assets/images/insomniascrnsht.png)
 
 Video Walkthrough:
 https://drive.google.com/file/d/1ZeZ8tK4VJmIwCvlRIVz2BxyzPwk-b6hU/view
